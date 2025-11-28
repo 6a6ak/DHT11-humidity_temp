@@ -1,8 +1,4 @@
-**Project**
-
-- **Name:** `DHT11-humidity_temp`
-
-- **Description:** DHT11 humidity & temperature example for the Arduino Uno.
+## DHT11 humidity & temperature example for the Arduino Uno.
 
 **Hardware**
 
